@@ -27,7 +27,7 @@ git clone https://github.com/kumarawanish/splitwise.git
 2. Navigate to the project directory:
 
 ```bash
-cd expense-sharing-app
+cd splitwise
 ```
 
 3. Install dependencies:
